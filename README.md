@@ -2,7 +2,7 @@
 
 Bienvenue dans mon portfolio open-source orienté Magento 2 / Adobe Commerce.  
 Ce dépôt regroupe mes modules, contributions, articles techniques et outils e-commerce.  
-> 📦 Tous les projets open-source sont hébergés ici : [github.com/CleatSquad](https://github.com/CleatSquad)
+> 📦 Tous mes projets open-source sont hébergés ici : [CleatSquad GitHub](https://github.com/CleatSquad)
 
 ---
 
